@@ -1,0 +1,25 @@
+/* # (pound/hashtag) means ID. There can only be one node with the given ID on a
+ * page.
+ */
+#greeting {
+  font-size:200%;
+  color:red;
+}
+
+/* . (period) means class. There can be many nodes with the same class. Each
+ * node can have multiple classes, as well.
+ */
+.movie {
+}
+
+.movie-list li {
+  color:blue;
+}
+
+.bevs li {
+  color:red;
+}
+
+.bevs p {
+  color:green;
+}
